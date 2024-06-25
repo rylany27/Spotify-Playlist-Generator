@@ -270,7 +270,7 @@ if __name__ == "__main__":
         scraper = ArtistScraper(parse_type, update, scrape_num, num_users)
 
     artist_ids = read_artist_ids(artist_file)
-    batches = [(artist_ids[i:i + 10], scraper, i // 10 + 1) for i in range(9000, 11000, 10)]
+    batches = [(artist_ids[i:i + 10], scraper, i // 10 + 1) for i in range(9000, 10000, 10)]
 
     with ProcessPoolExecutor(max_workers=scraper.workers) as executor:
         futures = [executor.submit(start_batch, batch) for batch in batches]
