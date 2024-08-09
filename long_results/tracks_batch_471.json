@@ -1,0 +1,6562 @@
+[
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0GZ65zwBwkkwGNJ3zagtTZ",
+            "id": "0bGiEGMpJ50OyVcb8elPOk",
+            "name": "GOLDENWEEK"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "1WpzS2uVQqgnmIC5cO0PHB",
+            "name": "I'm Yours"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "4mwdoAGC7rs5fQqBbXi6g3",
+            "name": "Sorry"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "3LVfYGjdOShjzdcjMPyOfC",
+            "name": "Just the Two of Us"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "6nuRNZZxbt9u7eCVfh5tHH",
+            "name": "Say You Won't Let Go"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "4M531AFfAwXafUzVU2W1dT",
+            "name": "Flowers"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "2SIUV6E36gupDrPRvuWTM0",
+            "name": "How Deep Is Your Love"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "77giqpC7Lywi2I5ZNQxeY5",
+            "name": "It's My Life"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "6yBjPEUEZYkjkJogeny5L5",
+            "name": "Can't Stop The Feeling!"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "5SkL58W35Zrcej6FmnS1rJ",
+            "name": "My Cherie Amour"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "2IoHkxbdnzaLKOavXEzCro",
+            "name": "I Don't Care"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3MlLMBQxcbhAToQvMYiRoB",
+            "name": "Little Time For Love"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "396RNP40AV17s1SW4ucNZl",
+            "name": "Waking Up Together With You"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "2kKIqB9PBn3aLkprms6oWM",
+            "name": "Nobody"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "68fwIBvZG3Q6kUB8XUiGS9",
+            "name": "Love Song For Chesney"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "7K3Lvpoj0UwCUo0qeuJmmI",
+            "name": "Dancing In September"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "7K3UEFknFEw7RkrZonIZCM",
+            "name": "Reminiscence"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3TYyc083KzN34WrpfplhBJ",
+            "name": "Beautiful Journey"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "5TwYmXgpOzJ7VZxWYfwfSQ",
+            "name": "Dreams"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3YroDHYfia1GU8RFXcIuOL",
+            "name": "I Feel Love"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6HKyHxEXCWvRPOVEEL9nc1",
+            "name": "Ready"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "313kufIL1TMY7NrmIMimMr",
+            "name": "Stay"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "2YNJ2wMRwl2L2cudMQ0B6N",
+            "name": "Acknowledgement"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "3Nxw6eeFpBwUbxVuSY6NC0",
+            "name": "Chillin'"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "49X0LAl6faAusYq02PRAY6",
+            "name": "Lady - Hear Me Tonight"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "05WVcNQ4gbd6p2YOLXc3yD",
+            "name": "Too Good to Be True"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "2dvKaRYQOaOyYxtHWKWrJ5",
+            "name": "Peace of Mind"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "1bqNckXwRvNX3ZsA4zOr0L",
+            "name": "What I Mean"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "7z8sOQkzkoT9SCYQSWenjs",
+            "name": "Music Takes You Back"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "6R7HiEHriT8uCvNwnqRA1D",
+            "name": "No More Tears"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "1YucFGqqoZ8nKwsHR1AOmS",
+            "name": "Rollercoaster"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "2Y0Sb7do7pOAT9sYAPpCfU",
+            "name": "On Fire"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "12MJZKQHJGFVfMnp1jnnOV",
+            "name": "Savior Eyes"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "3IvPx3BOjQdrwzMQtVtLaR",
+            "name": "Lady - Acoustic Version"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "6KjbyUdtrLdlBJx6883aO0",
+            "name": "AMNESIA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "61C0xeB9X1LZexJPUVV0mI",
+            "name": "VELOZzzz"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "0zb2NyyO1G9NB4sm0WMR8N",
+            "name": "ADORARTE"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "09fn3FkEYsMJ4I6oD7m62h",
+            "name": "MATANDONO"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "2jrhRFsaeoZsynTTMXtVs5",
+            "name": "Noche en LA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "3oAmBACppx0oqxluWxk1Yx",
+            "name": "GOOD MORNING"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "367t1Sa4py7SatYrnnnmRr",
+            "name": "X TU AMOR"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "6zfQm0Q0tIAPQCqww31GKb",
+            "name": "OYE MI VIDA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "34SjSaS44EzxtbAxWmR6TC",
+            "name": "Las de Octubre"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "5U0MOWsdIUj5CjErWDBLoj",
+            "name": "DEJANDO IR"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "3hgT0pDrq7S5XclJvGjvww",
+            "name": "ESTO ES AS\u00cd"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "527X4tGXPKyAP6sqsHetnu",
+            "name": "PQMU <3"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "2iSL12S9NbcGV5ttONaiPu",
+            "name": "CLANDESTINA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "0IPt5YeW1CAdsPYCJ5p0gF",
+            "name": "LA MALA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "1spjTB2jFkxAvMdKas3x2H",
+            "name": "Par\u00eds"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "1tjReX5oIsKw7LvdSg19ax",
+            "name": "Numero uno"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "70UxUjElpG65wkoSpMHqZ8",
+            "name": "Hotel"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "4TfnmTSGLXqRWZNJ7Vwuwo",
+            "name": "Ziyech"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "2j6ik5ZYSribPukizRjgOl",
+            "name": "Tiky Tiky"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "116J7zNsRQlrYIuXh81xka",
+            "name": "Drari"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "14ZF0QXfMjJ1DyoL7umYoG",
+            "name": "Neshba"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "0l8n1uu6n4tITt9rhwsGbx",
+            "name": "Mula"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "0PAha5CdkAvU5A66J5zP0v",
+            "name": "Wijayakusuma"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "04FSxluwU3oh2X6sypL99w",
+            "name": "Kesan Pertama"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "2CeWTvZ3hbjethRglT40TF",
+            "name": "Berdikari"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3vF85NWnAYdvlaQTUZR1OG",
+            "name": "Daun Surgawi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "1qypt9GJbkM1K2lNfZ1aZm",
+            "name": "Rasa - Rasanya"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6MAbITbArSxdNVAfTuKP3p",
+            "name": "2 Jam"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6e1oI86UaF7QdWPWopcoSF",
+            "name": "Asmara"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "2e4q46OIM2q8tM16nR1B9c",
+            "name": "Friday Vibes"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "0Mgsph338uv0xu81UjZM8X",
+            "name": "Head & Heart"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "3pR3E33AbiVh3x20s7EG0v",
+            "name": "As It Was"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "6X7J6IvSGmg2PqYex4GNRr",
+            "name": "Haw\u00e1i"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "7BLE771hJnZTzURnWFtmrB",
+            "name": "Easy On Me"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "7uCZQtZOdHBaYt3TPTRDz9",
+            "name": "Watermelon Sugar"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "383RfStICCeB7iCZVKkcc5",
+            "name": "Blinding Lights"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "3aoC9jyYacib4btjZ64oFd",
+            "name": "Don't You Worry"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "5EW6TZOAvMPcK8sEGm5d9s",
+            "name": "Chained To The Rhythm"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "3XgRBrCrg1lJLot5ZkgyQR",
+            "name": "Liberian Girl"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "5dYQ1sZtZweMRMaAhL4m5J",
+            "name": "Wake Me Up"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6xS6wo487HNu40vh9e3fql",
+            "name": "boj\u0119 si\u0119"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "79xNv50yzorLTL0ZvhT1rz",
+            "name": "PO\u017bYJEMY ZOBACZYMY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "1IRpRd8JuPU59fGlLzrAHF",
+            "name": "ParabolA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5b3ZDch5F2iAtK2Ok9nQAs",
+            "name": "b u f o r"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "2w23b547ua2WtNyf6Z9Qar",
+            "name": "LAXJFK"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "4cI4UJf0z14rwM4IYlwVFF",
+            "name": "BIZNES"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "0d4SgsJAjJWRXIeeFdCNyh",
+            "name": "TRYB SAMOLOTOWY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "0iGelfDkI8pmXgZSXU9Iul",
+            "name": "\u0141AWKA Z CH\u0141OPAKAMI"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "7Miw0MgtnFUJinh3xOy363",
+            "name": "JESTEM ST\u0104D"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "1F2L4DqvfaZ0rHpobAD8rt",
+            "name": "BRIEF"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "4kmLlXuCwQwfWYdMU4eMYx",
+            "name": "Klucze do Miasta"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "00MsWcZ14TUwk8n2Zt3NNM",
+            "name": "ma\u0142y \u015awiat"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6KBC3UajDo3PclG3eNEfFp",
+            "name": "anio\u0142y"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5P55cj0rKTa3aZijhAhGNd",
+            "name": "szkoda"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5QE1LyXzYwP3hjz04Rre2v",
+            "name": "spok\u00f3jduchaimitacj\u0105zbroi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "4PL3O86LrwMWmAjQsWfOCZ",
+            "name": "Szymek Smor\u0105g"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6RStmXvO56Svnfc6mShmkw",
+            "name": "DZISIAJ"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "6PBvW3ndFy2YafGRIniiNZ",
+            "name": "INGRATA4 (dime si a\u00fan)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "3Myy8cn5VVmch4ZuMCmjyp",
+            "name": "CINCOESTRELLAS"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "5Kv3akRvvVxd4c1GDHYhdO",
+            "name": "Ha Pasado Tiempo"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "11HbPcasoDgvNrrjMa5PNH",
+            "name": "Something New"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "7yqueYfYg6aQCZERZaXE2e",
+            "name": "Tiger Song (Do The Wiggle)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "5C2IoAYKSHIhu3EIKSYilp",
+            "name": "Orang Utan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "1enFem0QT4InM9LnZsK94W",
+            "name": "1, 2, 3, 4, 5 (That's How It Goes!)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6r4SJk7yI8jKlQIbNB9DWC",
+            "name": "Banana"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "4fAoDAszGsowzrnzVM0Fcv",
+            "name": "Friend Till The End"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "2wHXi1jrVBT99Cr87ZWKm0",
+            "name": "Life Could Be Amazing"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "4yDqV53vv81ZJ8QGshKX0t",
+            "name": "LMFAO 2024 - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "5YVqO413i89JJQK6NifGAy",
+            "name": "Talk"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "1cSaoyaHS2mcTOH7zXc34f",
+            "name": "Dadiyan Naniyan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "2UN5ayAAWWfdHI6I33eehA",
+            "name": "Suhagan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "7FSfzu5veTYj4gmdsqeBQz",
+            "name": "Jang"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6kEwaHgVUZxFRlBjTJCm2s",
+            "name": "Qayanat"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4gvMI7gXSxEscE4kdKpHU9",
+            "name": "Akhan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "22seTTCxm3bGNsledZdULW",
+            "name": "Pippal Pattiyan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0V3Hnajwu7cpaKRtg3VVjT",
+            "name": "Sau Sau Gallan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "1exPCMH8g9oZLMRH6neVG1",
+            "name": "Door Door"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6VqoAa9Jc1eERmPga75x7h",
+            "name": "Sone Da Sareer"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5XCmQ7eixIB4GcRQPv9lWO",
+            "name": "1990"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3LW7IpOXE8E8DL0WNAhRHn",
+            "name": "APRES MINUIT"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "35amhCqF0HbNuQqbaePc5m",
+            "name": "AMIN OU AMEN"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "2wPDuq4DAefNVKdz5uWJfW",
+            "name": "ALGERIEN FACHE 2"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0VlcKbjtVUPdISAEDrZ46B",
+            "name": "ON T'AIME PAS"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6kspqZmaEVV4XywEkCdHbt",
+            "name": "DANS MON COEUR"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5qkGObeyp6hVJ4IN0vIKYZ",
+            "name": "2MIN30"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5rIUg7AhWdiXEPvpzNUt09",
+            "name": "DANS LA VILLE"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4sgfPlK2nZiPQ22DfDQVvh",
+            "name": "JACKSON"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3fAbkAzOANYiCIZK88P7lA",
+            "name": "XADV"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "24GCQtyY5CcTUvM6aJZxlR",
+            "name": "TOM FORD"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "558FoULqrlLKm36HDx57Ia",
+            "name": "STONE ISLAND"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "2Pq8gE1yJ84BRmUEt8Ame5",
+            "name": "GRAND FRERE"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3FnZnSziiQq9mjDckT1aPc",
+            "name": "LA RELIGION OU LA MALA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "3E0tyueJ8RwaR9787Iucqc",
+            "name": "Drari"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "446cLutodT8bidqRX8vf3q",
+            "name": "BLINGBLING"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5IscO23li4Q7mtpTAVQZ0L",
+            "name": "Pilot"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "0XmQabmXUU4ubnZj8b2qX4",
+            "name": "Co ja wiem?"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6Fmh8FN6LqHsvrAeTDcTXl",
+            "name": "Thx"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "1TKP6r90JKWmpJmVNyPa1e",
+            "name": "mY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3zl4Mo9YzhvWMFoG7uVkXM",
+            "name": "B\u0105belek"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3LAzm4OTYZvMlHDmX7eyQw",
+            "name": "G\u0141\u00d3WNY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3MaOFVLZ9I0eou2mfwuYeD",
+            "name": "CENTRALNY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6xg8PicNlpBhrpNqH8i4cY",
+            "name": "Nie pomog\u0119"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5k5ROIUROg4l4c3lhiDxIh",
+            "name": "Zapa\u0142ki"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "2xYkDdSJINiL5QJcLmmAn6",
+            "name": "Dziewczyny z klasy"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5nKq940AgIUehGIJ7m8Ho3",
+            "name": "Gap Year"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6rYjkLQJhjPqR22PyfGDqW",
+            "name": "Nikt mi nie kaza\u0142"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0AkpPlFLnr0VQwZQeMGht0",
+            "id": "42ftJBwbvxcwlGSbPZhko2",
+            "name": "Lady - Frazon,Taraz & Cleyp Zoon Bootleg Remix"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "06wgc9lfdttpToiIGdRWYp",
+            "name": "AH BEBE"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "26nrzs6aDU8dsQ53clfHIM",
+            "name": "Human Nature"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "17FmiQGJDV3zY1YTYgrVJO",
+            "name": "Challa"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "2Nh2vQE7wA5cPOkZh0wgnr",
+            "name": "Firozi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3iT9nCn3ewR28SbHAl60Qo",
+            "name": "Jhanjhar"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "5SDhHjvzoygW72YP6dJmlo",
+            "name": "Sheesha"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6Tf1rIVU8YCroYnCL4GM4B",
+            "name": "Handsome"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3esFC8V1zB72hK9wMYFX5w",
+            "name": "Gal Kholi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0NFkqpzm3kisw9cG8I36Cy",
+            "name": "Ki Karde Je"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "5GvIfvkBUPtUCCQ4JwYtgv",
+            "name": "Sohna"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6CIStgeuYzpMRExEA0NCRS",
+            "name": "Chunni Lot"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "07G1PKRPHJJxQ2igDW7Q6r",
+            "name": "Bolliyan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "4YrwM074gMmjdG7t1P8VbA",
+            "name": "Trash Talkin' (Live at Jakarta International Java Jazz Festival 2020)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "7nrIqsS9wMFPUnIZkHu1wU",
+            "name": "Say Hello (Live at Jakarta International Java Jazz Festival 2020)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3iuxfM1IvfEPkuomorQhQj",
+            "name": "Superstar (Live at Jakarta International Java Jazz Festival 2020) (feat. Gabriella Fernaldi)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "5WrOx3hKwoahh72oNRyeoB",
+            "name": "Fine Today (Live at Jakarta International Java Jazz Festival 2020)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "1k6kDhQzd4mB20hi8Jpuur",
+            "name": "Fake Optics (Live at Jakarta International Java Jazz Festival 2020) (feat. Ron King Big Band)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6SnyAMiDnF9K3mqYgrboAe",
+            "name": "925 (Live at Jakarta International Java Jazz Festival 2020) (feat. Ron King Big Band)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "26tYZ5GctLSwlUz23WB1Lo",
+            "name": "Happy (Live at Jakarta International Java Jazz Festival 2020) (feat. Ron King Big Band)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "7hfSqP777QvystvWrmrAgJ",
+            "name": "Cigarettes of Ours (Live at Jakarta International Java Jazz Festival 2020) (feat. Ron King Big Band)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "4O7hemfj937kkMouKLvIF4",
+            "name": "Plaza Avenue (Live at Jakarta International Java Jazz Festival 2020) (feat. Ron King Big Band)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "1Mz3vnFkucQVnzkhSnYIFC",
+            "name": "Here We Go Again (Live at Jakarta International Java Jazz Festival 2020) (feat. Ron King Big Band)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "2ex3DDPkYFvwi4UHTwI1j8",
+            "name": "Bitterlove (Live at Jakarta International Java Jazz Festival 2020) (feat. Ron King Big Band)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6XIZ3hgwwR9IYSAPJQ2Rim",
+            "name": "Sederi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6Ai8vuToCdOaI89CEtui1H",
+            "name": "Capitaine"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6o1pQbRaUV0FbDBIsH6c9h",
+            "name": "Constellation"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0hvQB9CqExad641XSmcLAZ",
+            "name": "Prison"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0pjbcZp1nq3cUYyxbhLXRB",
+            "name": "Johnny Hallyday"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5CWgaUgKrSbWak8XsehddV",
+            "name": "Hagar"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4wZhBbDiMr4lwYyWv2iRAZ",
+            "name": "Le Fameux"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "7CtYdAjivmO0ypApsJFIRY",
+            "name": "Charg\u00e9"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4NubYxht5V3k84pDpF1ECT",
+            "name": "Omri"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "1vgN5C224DBDbg6sL4nA1E",
+            "name": "Effac\u00e9"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5MiOgyARMNrGq7HWJBxkx2",
+            "name": "Submariner"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6xqcuJssJNoEMdAScicROo",
+            "name": "Bang Bang Bang"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3nIeVeTFzPcYRTbQnFlVMF",
+            "name": "RG - Mon fr\u00e8re"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "1aSkIscHBwT8WWJnaWO0mm",
+            "name": "Vaillant"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3umPvlmIVwQeK2MbhocMqr",
+            "name": "Tesla"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4nzaqbcT2jZCcaozjAToBr",
+            "name": "Le\u00e7on"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4gSKhCsiN04x7PKICl0kly",
+            "name": "Game over"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "1peu89G7w6JITxMQYrFvNB",
+            "name": "La famille ou la somme"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5qJ5OgieEi2d8WgsBdPh91",
+            "name": "Tony Montana"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3uQGTgrGMTWmPcNFsIywS2",
+            "name": "Baby mafia"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6AuWjzoWnIIc9qYaOkszYd",
+            "name": "Air Bel Gang"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5neUIFXjZLGRfjJT8YL355",
+            "name": "012"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3lPGzfBPVTjjlB0WB0Yn9m",
+            "name": "Jutro"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "2R9myEfsr5R7clnWUX01FU",
+            "name": "Zaczekaj przed drzwiami"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6F2Wg3ENsDNTZtXouMCeef",
+            "name": "Ruchy"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "7CXEEklIiEXU6lT0BbkyiX",
+            "name": "Uk\u0142adanka"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3H2AzYWFF9GdhmIu3Or77T",
+            "name": "Co tam"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "0UzuXrl2oiddjkOGsvC9d3",
+            "name": "Potrzeby"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3nU5IJoHmfDFr92w1VXJ0f",
+            "name": "Millenium sport"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3dMpQ924vo0Cgw7HgVv3De",
+            "name": "Wszystko OK"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "4SRKYpv0UL8LVADxyeVJcE",
+            "name": "Chemia (Skit)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3KeWngnWN1REq9d26ZanKj",
+            "name": "Wybory"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "1DoKK7x6SYE9dEpPenY8vj",
+            "name": "S\u0142owo na koniec"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "1AZuC0l6iCThugUkQPZoYZ",
+            "name": "Szanse"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5TIR0O5RG9QZMJYOT4kSSZ",
+            "name": "Ludzie, zdarzenia"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "2ekp6YJtWvF7a0C1tVGl2h",
+            "name": "I'm Yours"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "4VqjN6MoZ5MPuVkeQKHs3Y",
+            "name": "Forever Last"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "2ciYrjOkEeE390f574I8Ow",
+            "name": "Sant\u00e9 & Bonheur"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5gLEkCDKvU5qY0UaJ506Jl",
+            "name": "Au quartier"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "65iEFCgrLKzsL9C6kxzerk",
+            "name": "Riz au lait"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "2geHDGPM6lcfUNCQdfrTiJ",
+            "name": "Rendez pas fou"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "7gKe58FeitjE0rXzPEXEXS",
+            "name": "Bosniaque"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3dGhQjzwvD5pdt4eRz15Ux",
+            "name": "Embourgeois\u00e9"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "1SuBlHxZYbeOEGmCMAzFWR",
+            "name": "Yemma"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "297FyRCvKZJ5YAZxGYhggC",
+            "name": "D\u00e9\u00e7u"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0DPTSOkIeeU6NI0cc8YdEw",
+            "name": "D\u00e9tail"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3EjXPnci2edJ8ho5cz36nF",
+            "name": "Hassan II"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3J7pvqz4yG7W4ESN1Ab56Q",
+            "name": "Pardonne-moi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4lkviuRa9sFNpC2WIceOe7",
+            "name": "Un mec plein"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "65QmjAwFGzOCvzAXSekaeI",
+            "name": "Bellissima"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "1g7clvEy7zLSoHoEXrquCi",
+            "name": "Les cond\u00e9s"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6bCEgsZorjUVVhJTAURIJB",
+            "name": "Tout s'ach\u00e8te"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "2df0psFjAcgHpLf1ixeztf",
+            "name": "La nuit"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "45Bs7eiEs8EfeHxrGrJLQW",
+            "name": "Gallan Chaandi Diyan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4llFhNiMc1ysoUo8OOWhsy",
+            "name": "Naina Da Joda"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6XPdVVhGXVD4flA966DP82",
+            "name": "Hakam"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "20CXB0j1t7nHLHJXbrK9Xg",
+            "name": "Sifar"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0iyTtfMuBXxts93JbZcibK",
+            "name": "Rug Amber Da"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "5mBzcbooHUma3i5BSVgC6k",
+            "name": "Akhaada"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4dxbIdadwb53lJWKnUSOYC",
+            "name": "Din"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3UchPs8bB3iPxOz1Y1VhM9",
+            "name": "G\u0142os"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "4nJJyf6DQnyXRJL4CU91US",
+            "name": "Ta\u0144cz\u0119"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "7aYxSX8TelVugddou8kQCi",
+            "name": "Motyl"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6X4shJPvcUsnCVsb9Vkt13",
+            "name": "Stare czasy (uff)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "1zDDJsw13kWrKfYWrnjjAa",
+            "name": "Spacer"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6J6Jz1U5tjhsclQr0tQP7S",
+            "name": "Mia\u0142o si\u0119 nie uda\u0107"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "7qx2P0623z9h4P5CivAln0",
+            "name": "Damy rad\u0119"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3vTb2jaiDG5mGpU51Kd1eo",
+            "name": "W szoku"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "0MCmzdJw5hKozN9oCGbkRm",
+            "name": "Niech to us\u0142ysz\u0105"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "1TRUYeD5MmYAPJh6vcWyJ9",
+            "name": "NOCNA ZMjANA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "6IZnzJPUfIUaOiNx8sVgRg",
+            "name": "As It Was"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "4cL8A2FNfID5l2Kq5hLhXW",
+            "name": "Love Distance"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "1xLLefI7aI3aSRXNEI2vue",
+            "name": "La pomme"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "2T6AwEXoikE8QssmdHzOeH",
+            "name": "T'en fais pas"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3QyYZpq6bliHv3ZYDseK1n",
+            "name": "Mon ombre"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "307mAPxwmD35HHLBTHGfYb",
+            "name": "Koschtowsky"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "61yy7GRlR5dJH7xIPbsWVZ",
+            "name": "Disparus"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4i1Ao7t07HxoZdbMB2mnZG",
+            "name": "12C4"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "1467QKi3bOfefSGdU9NnY3",
+            "name": "Elena"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "37T7L6ohYF1rgZkPoZJkac",
+            "name": "Violence"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4JCU8EsnXKIXfvmS7ONaBC",
+            "name": "Je saigne"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6w94VCyIBzYEjCfXvCRmvQ",
+            "name": "Alicante"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0ioU5EtDwukPUrTKUfNTqp",
+            "name": "Secr\u00e9taire"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "2wGDsEfttGPJMy2lRNFuTG",
+            "name": "V"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3orK6d2Ti02Txlrz45KbDu",
+            "name": "Caract\u00e8re"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5J8uAygC3Pq8Cc0DVX4OOs",
+            "name": "Enfin"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "0ZlcedOAmS5KS6mGdPpFxK",
+            "name": "Widok"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "3ena8KYMBtkIqBkDSXYaJd",
+            "name": "Vino Rosa"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5G5bjmBLeHBCc1i294eAhZ",
+            "name": "Slalom"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6WsG550j67Aj29z0iel7lo",
+            "name": "Waking Up Together With You"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "5U7iwc6NKmpOdZplf8zNoL",
+            "name": "Altitud"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0yCfVSEpW1DBL3BTjpDKCO",
+            "name": "J'dors pas"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0U5cqnEnnS14oGv0OBUwUB",
+            "name": "Booska noir"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "58NwYweonnK9dSvzuIf6g2",
+            "name": "Dans le noir"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5VEt1wV6Xn9Ay1zK1cC2FS",
+            "name": "Eau froide"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6uEuzfgNUSl3kWMGdCXQP1",
+            "name": "Des armes et des hommes"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3MPs1G3Ou9SX0Vzm9QYEdn",
+            "name": "Cette ann\u00e9e-l\u00e0"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0RYt1pTxgrDcnrxp2lQ17f",
+            "name": "A qui profite le crime"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0SdEdaYf3CcnNnB6OzdGjV",
+            "name": "Le num\u00e9ro 8"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6C4eVDS60cEFGBfnUJFx2g",
+            "name": "Applaudissez-moi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "25nbUE1x3SHBQgHrrogO8v",
+            "name": "T'es mort"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "10grexLYo39J20yKRyhGwL",
+            "name": "L\u00e0-haut"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "0w6B2YMDhXLesLMXxELiRa",
+            "name": "Englishman In New York (feat. Alfredo Chacon)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "1NZgGF9c9uPEaXm62NzHja",
+            "name": "So Sick"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "4u7DcIFZY0ms8UKSMvkevP",
+            "name": "Cold Heart"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "1UKKa0dT81UdHFFiGq1Qtb",
+            "name": "Hotel"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3PExB0N7a56JkDdFGZ6PV8",
+            "name": "Dancing In September"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3QWlLmiZpN3vYrWbR05YCJ",
+            "name": "Dym (Welcome Sessions)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "2Ab8r28hGXNQ0bnOoVNW3B",
+            "name": "My Girl"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "6S2bc2q6vCyHlbFaIEFqop",
+            "name": "We Don't Talk Anymore"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "3UuCSbhVGC5Vd40fv5xshg",
+            "name": "Shivers"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4JUZj7glx3NJNbstZ4ngCj",
+            "name": "Les anciens"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "3eMgAnyfJ6Ax6GymY2rjsD",
+            "name": "Rosita Sakura"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "5lLOq77WKo2UMY4Y7w22oL",
+            "name": "TRAP ROUMI V5"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "7ik2bhwqbgSftzXCIx7POO",
+            "name": "Nusa Ina"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "0XpnaVJkEWErJ14ZgLVa7l",
+            "name": "LAXJFK"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "7uZ7AiONlhz07hDOY7RGJn",
+            "name": "The Lazy Song"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "43lnC5j8qbmyIFKoSPxiiW",
+            "name": "D\u00e9sol\u00e9"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "2sMYRNu2A11bOf6D07hekr",
+            "name": "EN EL GHETTO #1 (PPPP)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "639CDARmxoRC57gK0nej6V",
+            "name": "Sira E Hou"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "5nNTA0Ixon5yG5cAx92J0R",
+            "name": "Kaala Ghoda"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6F2I8MphKZKRvZXvU7bIii",
+            "name": "All Bamb"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "7lAVkrQ7jiNKL5i6Z1WwcY",
+            "name": "3 Aarhi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3rxkUwA22FaUGPlhCIFhEF",
+            "name": "France"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4tQESd136KvxeKUGGByOuI",
+            "name": "Rubicon"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "70pwlJC8qCiuIy3w43WmQB",
+            "name": "Chakklo Dharlo"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0jJ75LBNCjx2P4jxHM6Zoy",
+            "name": "Mont Blanc"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0Vqm4DMGVJkgLBGtnRsxev",
+            "name": "Shaunki Putt"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "576OR0VtxBgyyh71ALj4BX",
+            "name": "Take You Dancing"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "55zHaL1bbnVwBeVDIF8v9w",
+            "name": "Wijayakusuma"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "4BtAXiL9MoTqImhPGBa6Mf",
+            "name": "SIREN"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3AylIT0Kone33jzuQAOWHQ",
+            "name": "Udhaar Chalda - Remix - Bass Boosted"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "4bKgagTAtgb64bPkA51voy",
+            "name": "anio\u0142y"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "2yQNoljlwYUg1cdXewGfy2",
+            "name": "OYE MI VIDA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0TMFctihGV9VByFmKki7cr",
+            "name": "XADV"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "0SX2dHhub6S6cBY8hqQAcr",
+            "name": "Masa Masa"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6th9SFSByEPnn7Gvag0huQ",
+            "name": "Qila Anandpur Da"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "28UQFuAziwuXLRXdLNdB0H",
+            "name": "ALGERIEN FACHE 2"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "4wRHDb2vO8U4lx1T86We3v",
+            "name": "PO\u017bYJEMY ZOBACZYMY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "5R5VL0m76ZCO0YIvI6T8uU",
+            "name": "Fr\u00edo"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "16kObFlkZJ1gBLvdLVwqoJ",
+            "name": "Rapapap"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6oADh3NoYlNRCaNjVrR8Mk",
+            "name": "Sahan Toh Nere - Remake"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "0YuZ7HexTHIw6Dm2n9ZDab",
+            "name": "Yth: NAIF"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "4nO1LWkotCnxfoyhqkGk4I",
+            "name": "cuenta (remix)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5kXqZe2VBK3fb3jEVWjI6X",
+            "name": "TRYB SAMOLOTOWY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "20OOFfJuxyIQmJZ7966R5M",
+            "name": "Love / Liyam - Coke Studio Morocco 2023"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "68kC8YIJaIKtgIMlRKjCqT",
+            "name": "Opps"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0xks4JzxUIpRySJ3mvGCrf",
+            "name": "Dil Malanga"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4K7f8TGZQqkwYTf6l3T6zq",
+            "name": "La Mentale (feat. Kofs & L'Alg\u00e9rino)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "2PGPOwCnhXsRNdLYSfa1CL",
+            "name": "Szymek Smor\u0105g"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5Np4sNCABmiYrFjuV45sYh",
+            "name": "DZISIAJ"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "4zEvqntUltAJ9IWLayoDrs",
+            "name": "Teman Perjalanan - Dear Nathan, Thank You Salma - Original Motion Picture Soundtrack"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "1rCtz4PwlThev7lviguSzb",
+            "name": "Love - Netherlands Version"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4yKFo4ObisZcgwxCtFtvfN",
+            "name": "Mandat de d\u00e9p\u00f4t"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5rDsDWBJ760MNvLS1bEJha",
+            "name": "Etanol i Kortyzol"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "69BMDJiCfoYMsLBDYDxJMs",
+            "name": "Parohna Banke (From \"Jodi\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "38JbxxHkbG6DXOpygjIxpK",
+            "name": "Waktuku Hampa"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "3blaeh6n0XN107gPNe68nu",
+            "name": "Comme \u00e7a la vie electro"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0CFnMBGUdP8xq5WT3cBphU",
+            "name": "YEMMA - Extrait de la Bande Originale du film \u00ab Les D\u00e9guns 2 \u00bb"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "34JDrRFUeR5NIDQn68Ybfs",
+            "name": "+48"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4qmoue0YqEahwAXrooIr2p",
+            "name": "Gal Kise Di (From \"Jodi\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "7lGrtzbEsxfKyBW1El2l97",
+            "name": "VELOZzzz"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3jJEnOcT0sJbPfS9wdTK8C",
+            "name": "New Year's Eve"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "2karLWYLu8wPrGQnY7CZvC",
+            "name": "Chouwafat"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "64Ges7gYGF1JxEEsOC6p5E",
+            "name": "Jatt Di Jaan (From \"Jodi\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "5AkV53fo1u01mi8r22JNeF",
+            "name": "I Just Couldn't Save You Tonight - Story of Kale - Original Motion Picture Soundtrack"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "6AhG2EC7oihkGPRVWmOAAC",
+            "name": "Love - Nigeria Version"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "0yuyFNfF1d0G7yH9lhoHEW",
+            "name": "Idealne Po\u0142\u0105czenie"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "131mNF7dZE1z4pGL1cgxOI",
+            "name": "Alg\u00e9rien F\u00e2ch\u00e9"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "7nX7nPD8jtSrkTPN2iCiu5",
+            "name": "Medio Crazy (Remix)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "2BZo8z5xUPzrj4dhxulJYh",
+            "name": "Un Chingazo"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "2scJNDedDZ3jq0ryj6HQ9C",
+            "name": "Pas changer"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6xajU52SIwE3EWuyE1EtdX",
+            "name": "Vaillant"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "3gLTUkkHiWnbvG49FByvp2",
+            "name": "necesito un break de tanta pendejad*"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4s19Qs5g54EWRbJ18axtmd",
+            "name": "Tony Montana"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4VmVgVC3yFMI0YcSQSS635",
+            "name": "Prison"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7a85giv9bbx1pQYtk4rkx6",
+            "name": "Cape Coast"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6XYbkEp8p3gCIMcPljcDFU",
+            "name": "Pit Stop"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3OntLatyNECcHJwP3BNNr5",
+            "name": "Thug Tear"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7wJYX07aX80vGOxDQNSj1R",
+            "name": "Champs-\u00c9lys\u00e9es"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1YDoLfe5PK2WHdVoRShGSF",
+            "name": "Salty (feat. NLE Choppa)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "40vOwdU1b4COxqm69o8mFj",
+            "name": "D.S.T.P"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3cyhdkuQthUivW87E7J1xa",
+            "name": "Mr. Police"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0lOsLVyxAqfIz4fv8NrWsW",
+            "name": "Pinot Noir"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "54t2qLtryHoSGNtlwYVikK",
+            "name": "Paperchaser"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0NehpjszfkOPjOnNi5NuXP",
+            "name": "Elmina"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5J2eAEqns6AXAVFXG9e5RM",
+            "name": "Georgetown"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0iT9dtfkTICzZycSYPK0Zm",
+            "name": "Radioactive"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4ADg3TQlLPpLsty0CUdTYg",
+            "name": "Know Interlude"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4qaQpr8BUgUf5M7fRnKPCR",
+            "name": "T\u00e9l\u00e9 Couleur"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3UMTwOkRVcPfUJ0nbM8ug8",
+            "name": "Rabbit Stew"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5grP81ViNATrx1VjWv0vjh",
+            "name": "850 (We On Top) [feat. Rich The Kid]"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3f1HvP03sebVIEkYp9iLnN",
+            "name": "Middle Passage (feat. Snoop Dogg)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3T5TaElFrEUiqR7rHlevOM",
+            "name": "Still Your Man"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "49D2YypOqWjVgdv0SJ9hi0",
+            "name": "St. Nicholas & 118th"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5GBjhDpyqOmI4miOMLd0bN",
+            "name": "Up The Score (feat. Benny The Butcher)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4wEEQ5OKH1kSsEfYLfTUbt",
+            "name": "Superwoman"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "52J4upRSYZUIldgen3yvVr",
+            "name": "Freetown"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2bzmXO73Ns10Z672gk16Tl",
+            "name": "Cape Coast - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3x1UBEryic9nd89hvJHWVN",
+            "name": "Pit Stop - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1PmuccsrYruod7xKOEOb8l",
+            "name": "Thug Tear - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6uvvMcQvdU1WXcuh3daWPw",
+            "name": "Champs-\u00c9lys\u00e9es - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7EhXXhSTv9QRyCKIYypNHB",
+            "name": "Salty (feat. NLE Choppa) - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7kQOTTB79hFQ56e1ENbYTa",
+            "name": "D.S.T.P - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0HX1YZD0IAlY41Y0DjKrH2",
+            "name": "Mr. Police - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2BOwIZpYRVmgutQiJBDCLG",
+            "name": "Pinot Noir - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2V1SUtcLX7K6pOIb7YipMF",
+            "name": "Paperchaser - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "68c12kevms8FUyJXsMANVh",
+            "name": "Elmina - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2FBancHIa6OGWctgOl9CNk",
+            "name": "Georgetown - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4xybgN4Nxs7OGswgO5zJLI",
+            "name": "Radioactive - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3iPcx03zoeQF84IvJgwYTc",
+            "name": "Know Interlude - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5UDv6q6tH6ABeXd4VtsKin",
+            "name": "T\u00e9l\u00e9 Couleur - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2blAvCZN7CtMNSIxWwDO4H",
+            "name": "Rabbit Stew - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2lsQq3ZWHRf4Q8OHQDNUn5",
+            "name": "850 (We On Top) [feat. Rich The Kid] - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "79CnaACSSN7DAIcaGZeKo2",
+            "name": "Middle Passage (feat. Snoop Dogg) - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5o6KsXvEOsguOntzFZx6Tw",
+            "name": "Still Your Man - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3r1f2qqsIIToSBUTzIPi9x",
+            "name": "St. Nicholas & 118th - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3HjLfEmNbHeYqjMrU5U3Xz",
+            "name": "Superwoman - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0lPcPBSCDQu0wdBfpnf4FF",
+            "name": "Freetown - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6uJnRn9lucdd9HEK1n6Fdt",
+            "name": "Omri"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "5QGdWvXwXMK2Zx6eKagyue",
+            "name": "Sudah - Story of Kale - Original Motion Picture Soundtrack"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3B2VAcKqaMpIiUpPhJja3F",
+            "name": "Lagge Magh Di Trail Wargi (From \"Jodi\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "6lsj28Ac7tqZUpILTwMfbs",
+            "name": "THIS YEAR (Blessings) - North African Remix"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6R1bNfVFQcFEE8cIgNPyqd",
+            "name": "Cape Coast"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "47HoGqHmLoOdqgpwWDHrZM",
+            "name": "Pit Stop"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2o2npIonZcdF4X30IJKXCk",
+            "name": "Thug Tear"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6nGSi6No6Wjonz9RbjNH31",
+            "name": "Champs-\u00c9lys\u00e9es"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4IkWUzwh8DZXMVMoyjSJFw",
+            "name": "Salty (feat. NLE Choppa)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0Sp69e6vC01tu66wm0zEY1",
+            "name": "D.S.T.P"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4A9rEG84702Nc3MVsVRrtI",
+            "name": "Mr. Police"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4Z2hR3qjHR4r7dwt7dKd1s",
+            "name": "Pinot Noir"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3PJEiEPBbYdWa6KZK04fid",
+            "name": "Paperchaser"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3NlFpLNLAyv1f838clGuQD",
+            "name": "Elmina"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1YlrEb8olOYNYu9Yz7FllF",
+            "name": "Georgetown"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2QxgKWrXZPJo27yNDHR3RK",
+            "name": "Radioactive"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5vwhvPFkP0Mbh281751aCZ",
+            "name": "Know Interlude"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6uNa9YhkIlugSGnxHv36UB",
+            "name": "T\u00e9l\u00e9 Couleur"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0fdedVLP9eXSYr6UtZ9al7",
+            "name": "Rabbit Stew"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "76BUzbE02oy3bG1Ii7JOlO",
+            "name": "850 (We On Top) [feat. Rich The Kid]"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5rAbS0eeRcDTWOQAjxNQ5V",
+            "name": "Middle Passage (feat. Snoop Dogg)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "34rANIVCns5gkScBts2n6n",
+            "name": "Still Your Man"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5vur0sVNHqsXP7Q8nku5F6",
+            "name": "St. Nicholas & 118th"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7ciuPxjrJjnABMykZOJtDE",
+            "name": "Up The Score (feat. Benny The Butcher)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0jB6bs2hb99bmGqbolDTVY",
+            "name": "Superwoman"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "02OJpUwYhOp8HRw2qzt6YS",
+            "name": "Freetown"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6l40aETv7BMp4ocWhIC7n2",
+            "name": "Jak chcia\u0142bym \u017cy\u0107"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0J7CNV9XAprZPARYC4ddyx",
+            "name": "Chan Wargi (From \"Jodi\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "3ibt6ERwy83V2DBCJOK7fO",
+            "name": "Szukam"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "65sYC4QuRyCxk8sA01EbFs",
+            "name": "Drugstore"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "31UK3pDJVGCe6igGartMgd",
+            "name": "Southeast to Paris"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2WTbnYggqMxe2SIixTrooY",
+            "name": "Dog Food (feat. Denzel Curry)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6mNOqBMluf9aEXgNg1O831",
+            "name": "Zaza Tree"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6rRCyEuP7uDdX7ste026ky",
+            "name": "Breathe"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0bwwbQKdfObbgY434nSSlv",
+            "name": "Taco"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "635uKiAjKNwDJKvVQT0o3c",
+            "name": "The Code (feat. Mike Dimes)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6OVY6fXejC4muGK2lvXWf9",
+            "name": "Paris to Southeast"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "0YfMvFYIm6B5GkLNM691MB",
+            "name": "Trash Talkin' - Live Stereo Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "4PU9XHP7U99gW2iDl6UHwm",
+            "name": "925 - Live Stereo Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "45mHqv3NxtPMQOjjC0Xtms",
+            "name": "Here We Go Again / Fanboi - Live Stereo Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "0D9FpYtHkEHlrdRRCWze0t",
+            "name": "Plaza Avenue - Live Stereo Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "23FE7SJlpG91kXbVCRnVXz",
+            "name": "Happy - Live Stereo Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "3Hn1PiXhdWrhMKvyVTGbKn",
+            "name": "Love - Sped Up"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "02rN4kzZgeZZnRg0L85dtj",
+            "name": "You - Sped Up"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "6IWWjhnJakIg4RBzggJx8S",
+            "name": "Baby - Sped Up"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "2TL0RiWJwwZuPBElITsoWa",
+            "name": "Ana - Sped Up"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6hgdqkrSlXZbXGcGJFtYJY",
+            "name": "Le Fameux"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "4P3PZFvMsKlNwTDHcN7w0J",
+            "name": "APAGAITA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "2x7cZSxvjIKHhvT5U2yq9c",
+            "name": "Jodi Teri Meri (From \"Jodi\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "2f43FBSrrSOXzZlWBsdFsG",
+            "name": "Nie wyjad\u0119"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6Cxuwxht1fWhSm4muNNdiF",
+            "name": "Trash Talkin' - Live Mono Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6R7f2rsPa8Xy6hi3zfJyK7",
+            "name": "925 - Live Mono Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "269CQghaECNEEiGlIKRehu",
+            "name": "Here We Go Again / Fanboi - Live Mono Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "2ZPf40wfjeqDTr8pwdFcm6",
+            "name": "Plaza Avenue - Live Mono Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3qgLztfLMWLe60lm2IoCxB",
+            "name": "Happy - Live Mono Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "42hW61wzFGqSWzm8Lz7xsD",
+            "name": "K Pasar\u00e1? - Live Session"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "7jL6suWMvoiyJAVtZNcoHa",
+            "name": "Con Calma"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "0uJKfELmaiCNRdcPy0kSe8",
+            "name": "Dynamite"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "0Adm4cDjOAwtJDkEvYQ90S",
+            "name": "Bailando"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2HxMz7LM29QAuv84Pcuhd5",
+            "name": "3018091821"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "14zcgozc6ojbeRyCU1v0Tr",
+            "name": "Santa Monica Blvd"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6fgDxIucjnTjOYkC2rokcn",
+            "name": "Dogs Don't Lie"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6qPSFSYTFqpZGwe1Ah2gJv",
+            "name": "Truth"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5P1JdyNOQkcKDUsxTcOWZT",
+            "name": "PradadaBang"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "62DZAq8z2RT5vLAPsMHkeP",
+            "name": "Shoot My Shot"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7GrVc205Lqjus3ovOova67",
+            "name": "Red"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2vsYyOpBQs9lcku0mNEiYk",
+            "name": "Jelly"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3hbnIjsNu0ZUN424hnP5s5",
+            "name": "Puerto Rico"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2szSmm3ZlDHKyp2j3UOoKk",
+            "name": "Temporary Love"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1DTb02CxHzgch47DHv2olU",
+            "name": "10 Feet"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6drgG4eo4veUWjl9Elw8cO",
+            "name": "Keto"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1Th23PWzkJWyHgWl3Pz9Xn",
+            "name": "1995"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0sZyb8Oo1fCI7Do2EQutqh",
+            "name": "Peloton"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3BT39SXuyLaq3EjE72WIks",
+            "name": "Hey Auntie"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6dB18cXPHrewBnSgHE4phX",
+            "name": "Cry in Church"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6jybXxtNO98w9yHrvu5R9i",
+            "name": "Closure"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "41KtwBtTPPlh77GPz01SDa",
+            "name": "Dinner Date (feat. Trippie Redd) - bonus"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3zBUcAFeQJlDkTYYNamMOF",
+            "name": "Temporary Love (feat. SiR) - extended version; bonus"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0pY4wCQtsgijg96Ldug5Q2",
+            "name": "Puerto Rico (feat. Jvck James) - version 2; bonus"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "08BnKhJtSrqQoo1kK00TUB",
+            "name": "2 Cents (feat. Shy Glizzy) - extended version; bonus"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3wGBmBi0mqUGFBle2eFEKV",
+            "name": "Just Like Martin - bonus"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "32rbPhSJegoD0wTtkXXk0J",
+            "name": "King Alfred Plan (feat. Lil Yachty) - bonus"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2uqjL9uacLZjQiV0U3JEsh",
+            "name": "Cereal (feat. JID & Kenny Mason) - bonus"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4aJlrTIlddvRBANPF5PDhV",
+            "name": "Rain - cover; bonus"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0Stn2vvq1WPUlefWsqIJ9t",
+            "name": "Dogs Don't Lie (feat. Royce Da 5'9) - extended version; bonus"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "2vxg5bbr7cXRbUhEOT3lUE",
+            "name": "Love - Slowed & Reverb"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "5PNjh0qfHxk3Oi47TnoGNV",
+            "name": "You - Slowed & Reverb"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "3m13Ty752pdhXXHpMznNOg",
+            "name": "Baby - Slowed & Reverb"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "2T1I28NCYP1gUBn4W7VjSX",
+            "name": "Ana - Slowed & Reverb"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "2GCo6tiqduhpuaY0qL7Hl1",
+            "name": "Bang Bang Bang"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0vXYvGEizwlUOxc2WSdkSA",
+            "name": "Takue Chalaon Vi Main Janda (From \"Jodi\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "1p39fLrejm3vWAnGFGIYvC",
+            "name": "Sin Ropa (with Ingratax)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "02lMKtBo9LfAn7ZGie49qu",
+            "name": "Charger"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6oC6PUcO28pRBGG8HSEQLe",
+            "name": "Brud"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "2dZWOaCfT4WgXicLTI7m67",
+            "name": "Dini M3ak"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "2n2arnmGwa7HUGhLZXvmBP",
+            "name": "Despacito"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "0ekhdE9DpSsEZTBao7G0ok",
+            "name": "Perfect"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "1uj8EOCKAXn4w2TR7CVnQb",
+            "id": "71aoOH3YluSs9eI81lVRJ1",
+            "name": "Stand By Me"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3ox1Z5vbZP6NiHRFL2SRpE",
+            "name": "Trash Talkin'"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "7GDlo8IkNwMQ7tB3qoYA1I",
+            "name": "925"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "1sUcuZMuz5Kn5rATfzL77v",
+            "name": "Here We Go Again / Fanboi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "2xZlgYdmv5ybdl8QomB1ZJ",
+            "name": "Plaza Avenue"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6aIHtswbVKdP5P9BJFt8Kj",
+            "name": "Happy"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "725lk3UoZUsDrABJxk02CN",
+            "name": "3018091821"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1LI44xlTPTB9b2fQYf5JiC",
+            "name": "Santa Monica Blvd"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0I8NVAbEPKZ2wERrpuKnGH",
+            "name": "Dogs Don't Lie"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3uxDoNIXD9Qyidc489GNJV",
+            "name": "Truth"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7HVjv9eROzFmNNXH79DDc7",
+            "name": "PradadaBang"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0elOQOiF9zAbrWFBHCmJrn",
+            "name": "Shoot My Shot"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6xQZnBsLazLo42vDpmSMxV",
+            "name": "Red"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6Gdjqga7thTyiB0i0saf3l",
+            "name": "Jelly"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2UX8NQRTgtRKnTSvS1sJnl",
+            "name": "Puerto Rico"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5rBENUzBd3hFLjPDOv9JkD",
+            "name": "Temporary Love"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6BDD2WtdxKHQC219lcd3tZ",
+            "name": "10 Feet"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7bNjxTrAG2DuF3rmP7aFl7",
+            "name": "Keto"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0JUWGuJSpyijEvMxuf3jsQ",
+            "name": "1995"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1EoniHz5JXkLacBwa2f7S2",
+            "name": "Peloton"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2nxZv3XZ5YqQp3pG72A35e",
+            "name": "Hey Auntie"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "05DvO5QoisWsgnh7BSaNcT",
+            "name": "Cry in Church"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5DDFmVYLZpqOTmtivaxyBP",
+            "name": "Closure"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1f7tkXmHJFjwl7qRl7ZBlb",
+            "name": "3018091821 - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4Z5FRLGs4LuTq7s1nsyrge",
+            "name": "Santa Monica Blvd - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5HaYljtIUsKORn9Nc2zwzf",
+            "name": "Dogs Don't Lie - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3G1ehqzoeWCHsgDakv5fmn",
+            "name": "Truth - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6EsQBmXgsaI881zDqVl7MK",
+            "name": "PradadaBang - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "34cjXdfUPa8xapCGXwuHkX",
+            "name": "Shoot My Shot - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "18wHoUt5635ul4LOsUleYd",
+            "name": "Red - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1F83wapXF7vk6pCu6BZzfS",
+            "name": "Jelly - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7eE7sShrVLdIzAbjuGcqcm",
+            "name": "Puerto Rico - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0sfKCnt1Rz31yUEtjrBO0T",
+            "name": "Temporary Love - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "58gh3wtAfjqTuaLle3zIxn",
+            "name": "10 Feet - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3v4vQHxQh1oxJBJimYVvie",
+            "name": "Keto - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2N31KIcIKqS8BhbcLfpoiI",
+            "name": "1995 - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6QOokFNBvVkF8Nr72qIIPr",
+            "name": "Peloton - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6WPMSiW3y4nEyAyrPTsdeH",
+            "name": "Hey Auntie - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6wOnrFv25YLc1yjZhWcEP3",
+            "name": "Cry in Church - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2pX3Kq51anyupce0HMwnSW",
+            "name": "Closure - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6jwxRsmJwIezmZxYVQCcVa",
+            "name": "Jigra Te Laija Gabrua (From \"Jodi\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "717yXOlDILn2Su0EuKeUDc",
+            "name": "DZ (feat. Kofs)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "0H0KoHgEWXn2n6BFWSozzS",
+            "name": "Love"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "3RqdFAm07dASglc4ndukGU",
+            "name": "You"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "6lfZwEYVtWbiM4OOP67Ks0",
+            "name": "Baby"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "1H4qCjl4ZgUElVgLZr8zNO",
+            "name": "Ana"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6EviFqpmuvHfQaExMKmt0A",
+            "name": "fine today (Nanti Kita Cerita Tentang Hari Ini - Original Motion Picture Soundtrack)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "72zVlGhu7BwyfcuyvG9flT",
+            "name": "OMERT\u00c0"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "36bMLckZiTZAaUEs3VRu4z",
+            "name": "RILEY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0OuQWQOf0RV0H8VyTwtc8d",
+            "name": "MAZEL TOV"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3jHxjhh7VXy3ksNPN0HBy6",
+            "name": "SQUARE UP (feat. Juicy J)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "61VMLp503vHfCJzZ0AvITL",
+            "name": "BULLETPROOF"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6ndshPoBcMTgZO43UC1GpI",
+            "name": "END OF DISCUSSION (feat. PnB Rock)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7uigVZf8EALZAgGJD4iqoJ",
+            "name": "TOOTH FAIRY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "42bauwpcTyiE1aWs1YQ89x",
+            "name": "495 (feat. Rico Nasty, YungManny, Big Flock, Big JAM & Weensey)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "182zV0LH22fLCZCjhYv7Kc",
+            "name": "LIVE FOR IT"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "1CEFvXXeClHj6syBWO5KQb",
+            "name": "Zaczekaj przed drzwiami"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "1FLiL8ETgtjbWOWrlLwLVS",
+            "name": "Noche en LA"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "2Xi2rN0Awghch9seTfDmge",
+            "name": "Raanjha - Spotify Singles"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "7pwaiJgGtIOHuxQ0Un60s5",
+            "name": "Ce soir c'est Classico - Extrait de la bande originale du film Classico"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "570gZiXUFd5phvmvh2gGCc",
+            "name": "Las de Octubre"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "7B9t8WX9T38Df93JHlywfk",
+            "name": "trap roumi v4"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "1jyxdbTEeH3TdlIqganrEp",
+            "name": "Co tam"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6E7qleC6ekLOnrhl5o1svV",
+            "name": "say hello ( Live Studio Session)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "5WhhYMDhfSRY8LHmejtKDY",
+            "name": "bitterlove ( Live Studio Session)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "55ImlYqsNUzrZB0ED0JUDJ",
+            "name": "fake optics ( Live Studio Session)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "28t8eAKSzMnUZGloIaWxdI",
+            "name": "superstar ( Live Studio Session)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "4Zf9YNPsvw1aT5taJrWuWt",
+            "name": "cigarettes of ours ( Live Studio Session)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3yPgont5aSisIrGuqpUsmh",
+            "name": "Cloud Blu"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5yl7WSp3mot0nepMQvfVi3",
+            "name": "42 Hundred Choices"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7JxDiCxsYDidZMbgamzAPu",
+            "name": "The \"E\" in Blue"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4NcSvEsaO2h2wACFo2SwoL",
+            "name": "Alone"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3pX767GK22EHwYEYLNEuoo",
+            "name": "24"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2buuesSQNcXtvL0XBwGav5",
+            "name": "Lilly"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "192boLjFXYWZ0ADjtvhaJT",
+            "name": "Porno"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "33vNP0my9ObFUJx9HCDNY1",
+            "name": "I Do Me . . . You Do You"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2XTyx7Txuj6dZ1lLYLj3Wc",
+            "name": "December"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1LeMY3gLPfsQk308ysdMeN",
+            "name": "European Skies"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5ytDzVL5ThzdrCYGQ5pSPO",
+            "name": "No Cable"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7GcbUQUvw2TIfmDfya8Jgv",
+            "name": "Digital"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4WBVbltx3dWKBKB646nPmu",
+            "name": "Michael What TF"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3eyVqOBSMKAfSRlg4uc6fg",
+            "name": "Julia . . ."
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "62YF0FglEltB3CnVIjoko8",
+            "id": "4bF2y8rR7GUjrd5LNEvej3",
+            "name": "Pari\u0301s"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4M0gBdxmNHpFql2o3lre9t",
+            "name": "Shikayatan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "0cPYsatszcbMWoFWo5LHiZ",
+            "name": "Wayli"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5HHXW0nn0XgRfcg2ZL5D9R",
+            "name": "Enrico"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "7bQO6BKm7fJxJmg0A9qIoo",
+            "name": "Wybory"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "47u6fLCCvk4sUpaBwdHYrU",
+            "name": "Salute Wajde"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "4eHeFewqpAJWg9Cc6W8jFj",
+            "name": "Ma ch\u00e9rie"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "53cCqfOytnTpWxV2QhaK24",
+            "name": "B\u00eate et m\u00e9chant"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "13x2XUPoW1D80kqcsZryF9",
+            "name": "Cole Bennett - Remix"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3Y0KEGJAd6y1i4aNPLvf2c",
+            "name": "POKE POKE"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0SfzEtAE9W9NUQKvDAtHmZ",
+            "name": "MORAL"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7hZoTr4ffMGqm9opMiGmBp",
+            "name": "ONCE UPON A TIME (FREESTYLE)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4cWnxKa0DECSAKx88cwOpR",
+            "name": "BAD NEWS"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3B9oejnTgC6xtSZpEeqrWQ",
+            "name": "STOP"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2FE7ZJMxbiqx0quBhdaQEq",
+            "name": "OMG"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3KIBM9Vo83dSqWiGRzMGru",
+            "name": "GOOD NEWS"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "0dv5C8jhH2HQmjOO9PIWH3",
+            "name": "say hello"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "2q5ug5CRRG0nBCLBTprsl6",
+            "name": "bitterlove"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "72E5kzLe6b8fobVlanb1dU",
+            "name": "fake optics"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "7ghRqkDnIWqwbzyLACPKDN",
+            "name": "superstar"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "77SiKnkNEnRw0uoPE4wuEp",
+            "name": "cigarettes of ours"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "74OLXYsvpfmSgPCMMi898K",
+            "name": "bitterlove"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "6claTdKnG2FOnikFadYeno",
+            "name": "fake optics"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3xGJHpfBxcXhQZfjlY9mLW",
+            "name": "Perlahan Menghilang"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "4OqMPe19Z0fDi7ri5ZbNhj",
+            "name": "The Message"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "7JhZI4MzYLnjQdvxco3kVU",
+            "name": "Bulb"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "5tKDfZlRHFOWLF1l29FqhV",
+            "name": "Tjumbuan Kasih Rimba Lara"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "1yBa6FlNKmE9tRkeCF50OV",
+            "name": "I Can't Stop Loving You"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "0UoPZZKHTNXyAKvnQC0PrY",
+            "name": "Omri (feat. kouz1)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4crWkyPl8JAEe5LYF7wFXF",
+            "name": "Ishq Kacheri"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5wV6G01ZhBbwrFSmWjmaa4",
+            "name": "Dans la cit\u00e9 (feat. RK)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "4SrpTN0907m7OT60sYI9GS",
+            "name": "What Do You Feel About Me"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "3UM15EeyHsRCbbIym5bmIt",
+            "name": "Di Senayan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "1t0ZWTC7tBk8mQzBzSu1HH",
+            "name": "The Sun"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "2cfMsmkPhzw58SX24LD95m",
+            "name": "The Bitterlove"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3TkSKriI4EZmTxSFyzs0fd",
+            "id": "0QHcKxKqQ5032thSSpIN1k",
+            "name": "I Placed My Heart"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "2mS2FFOhEWYTn2EMNCyDxK",
+            "name": "Numero Uno - V2"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0i0Kxshp9vkBsNrO4y7wMg",
+            "name": "Dernier mojito"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4iWEfZcSV5R23X25oxirVF",
+            "name": "Mrs. Lynch, Your Son Is The Devil"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5CrQxORDhnUOcYUZaONqHD",
+            "name": "Maryland Ass Nigga (with Swizz Beatz)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0eIKisCAmVAbDb3VAfz82Q",
+            "name": "Pizza Shop Extended (with Yung Gleesh, DOOM & Del The Funky Homosapien)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4OYho6uPEbyJ7V4P6JN8BM",
+            "name": "Dog Love Kitty (with Mother Marygold)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2hAEGOEX94swrkqezHDb7f",
+            "name": "Mama Said \"Respect the Venus Symbol\" I Didn't Listen"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "79MmzYI9UNKqfL7kKl5JzV",
+            "name": "Windows Up"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3W8NlEQtoQYFwaTLhx0qPU",
+            "name": "Birds & The Bees"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "560CQOw3a4ShptCLnOIz5x",
+            "name": "17 Wit A 38 (with Chief Keef)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "642IPuopsLDZYSQ4Jyj7Qh",
+            "name": "No Shoes On The Rug, Leave Them At The Door"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3tKFUZylQ3k0DWU4pN1NbL",
+            "name": "No Words"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5157VBQZAhwLz53TR9JuP3",
+            "name": "Black Sheep, White Dove"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0Ye1xL7D1fUSAm4QBuogIk",
+            "name": "Baby Scale (with Yung Gleesh) ( Bonus Track)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3DWcDfFX2Hb8oNTD4i67yv",
+            "name": "Gall Mukk Gyi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "7xFH58g6kvVxoBL7CC37gP",
+            "name": "Ruchy"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6ctDCeLuRpLJGlsFbYDH30",
+            "name": "Nie Mam Do\u015b\u0107 (prod. 2K)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "2DjbJ38jhsu7qQu7f2biPm",
+            "name": "Uk\u0142adanka"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "6BICtrYCMhoPqt8jJhZ8n6",
+            "name": "Mia\u0142o si\u0119 nie uda\u0107"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "26L4aoYI2DCycLsWH1gY6V",
+            "name": "Damy rad\u0119"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "7et0XxrVollN05zvHiuZsh",
+            "name": "Dat'Ass"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "41QtDdyQw8tBnuEKaH4Xtg",
+            "name": "G\u0142os"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5OyClVff6KQwfqSgID17GX",
+            "name": "Niech to us\u0142ysz\u0105"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "2vXU0sFXpeKL4z2qwn6SuG",
+            "name": "Presjan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5tYhU3GpaU5qWgcMfzMiEr",
+            "name": "Tant mieux"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "0vUqTFflwSpwpoJNV6goho",
+            "name": "Tigini - North African Remix"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "43yekIowVCHkR6TGGg9gSp",
+            "id": "5223xk25yM2YOABoaAyPtu",
+            "name": "Ta\u0144cz\u0119"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4GtCxfvTwCK9NxnjmbZvio",
+            "name": "Photo"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "674s0GBtC79d1vbPSIzZYB",
+            "name": "Mr. Mills (feat. Masego & Kain Carter)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0drzZsXxOkIzu3Zny72fgk",
+            "name": "Boy's Innocence (feat. Fat Trel)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4a2TckGahQhkeeSH8tivEx",
+            "name": "Shit On My Rivals"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2S8ooBxqdRa7kKw6Hf6kKL",
+            "name": "MENTALITY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0JoGsRmUZiSTSRgnMDZjIq",
+            "name": "Nudes 4 Cash (Adult Swim) [feat. Pell]"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7DhLMc82gpUof9X1RC6nW7",
+            "name": "She Blocked Me/Brian Arsinal (feat. Fem Dot)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3AB642Szu0zp1GZuSEkswg",
+            "name": "Priorities Pt. 1 (feat. Ash Riser)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7dY3tjKaIivLfUmd3Y7me8",
+            "name": "My Wallet (feat. Michael Christmas, Saba & Jimi Tents)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "67UU3ZcvhZbP4vSRR4HdpZ",
+            "name": "I Picture"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0g06x4h1DekVg17WCb4jRW",
+            "name": "La Groupie"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6F54OjXJHGYuIgrGtSr4TV",
+            "name": "SOMEBODY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2353DGT9Ks8Ijfvh0mxCUk",
+            "name": "Who's Looking (feat. Kevin Ross & CJ Fly)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7Dm61UkpG9ZvgVzHllnEw2",
+            "name": "How Long/Last Song 2 (Outro)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0eZQTYXVbEcYCREOfIYO5J",
+            "name": "Akhar - LoFi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "7gMn9WsK50ipP4hmpk2PiP",
+            "name": "Hayati"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "0REGVtNYPnuyt95rcQodmU",
+            "name": "Magic"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3rJfIqEma8kw2Yrx09l6xq",
+            "name": "Sexy Bartender/Intro (Jay & Her)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6PmJt4ZI13lhFBnnj5CWmk",
+            "name": "Dirty Scale (Jay)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0Px2UbPzEm9W7bKF1PJdN5",
+            "name": "God Said Trap (King Trappy III)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0eTwx2H2T2i7lgyAeihUZg",
+            "name": "The Plug (King Trappy III)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "69I9WCXsKVKHq3pKS7cTwa",
+            "name": "Thank Reagan (Jon Jon's Brother)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3i1pVytUtkciZrXVaZn4MD",
+            "name": "Thug's Prayers (Jon Jon)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4BlunrH7a976F43IZVfvYm",
+            "name": "Fiend's Prayers (Matt & Ed)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2mUaPknQddWbxclE3SH3mz",
+            "name": "We All Da Same (Everyone)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "24sw73h7W9roFxZQYIFteX",
+            "name": "The Bio Student (Chris)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1e3yLRggFr2HaZ2s012PYZ",
+            "name": "Pussy Is power (Interlude)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5yZfcgYC8X6Bw3QcXp8oUn",
+            "name": "Cookie Addiction (Jay & Her)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "29m5RZWAwmr5GXMBD0oSbb",
+            "name": "Metro (Jay) wav"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1cnIlEpmj1U8LR3fZZcSEL",
+            "name": "Sexy Bartender pt 2 (Jay & Her)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4eXZpzQiQvdt6Z09Jk84f4",
+            "name": "Last Song (Jay)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1pGPBMbyhGSV5OnkY8cZOd",
+            "name": "Two Hoes (Bonus) [feat. Eddie Vanz]"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5VKFxeCNXVoJbFUUlfmVx9",
+            "name": "TiFFANY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "35K8K6jlPaXbUiOmfK5cxv",
+            "name": "Douga"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6mfFOkaYDfQB9UJ60J0xl1",
+            "name": "Sira E Hou - DJ Dalal Remix"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0a9L4RwEXBHyLla01WcHdD",
+            "name": "Putain z**** 2"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "2OFdloBFPhVUVGygJ4guWo",
+            "name": "Marijuana"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "4fS80tgZBjZ18DMpfpTVZR",
+            "name": "Comme \u00e0 l'ancienne"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "21yoyeU0trgC18fKX4zMTE",
+            "name": "Nimrat Khaira Top 5 Hits - Mashup"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0LDuxGpxvtnfERsY0aVSC5",
+            "name": "DENiM (feat. Joey Bada$$)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4jJIUQ5z2kYLmJxwPJB1Gz",
+            "name": "DENiM (feat. Joey Bada$$)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2K7Gywj3ljgKyatNZdzycF",
+            "name": "DENiM (Instrumental)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "0EKUeQ3r6qzHYgIpIvNgEn",
+            "name": "Laisse tomber - Extrait de la BO de \"Or Noir\""
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "7cF1Rrb0VtclSWSu8LSJP4",
+            "name": "Saade Kothe Utte (From \"Saunkan Saunkne\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "07yjOxOAi1cxhO2FALf861",
+            "name": "TRAP ROUMI V3"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6igRiUF4wplkbTr2ecNx8Y",
+            "name": "Jungle Music, Pt.1"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "19dD5F9Mu5DvraJr0f5eho",
+            "name": "RS4"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7nL96PR5rwrvEsP5hhmsu6",
+            "name": "Pointers"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "6C0nDZ70xqmULAt55y50Vg",
+            "name": "Daro Bia"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "5JxEpyICoZZhfIUh2kr6wE",
+            "name": "Galwakdi - From \"Galwakdi\""
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4hTFSXBJvZXK4pV3EXsRBP",
+            "name": "Tere Naal"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1eoFKqgsGay0UhcBcXbeaT",
+            "name": "Puerto Rico"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0fUXX3Zf7FX7TKq0FBKgMK",
+            "name": "Salty (feat. NLE Choppa)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2OxwA46cEVM0YEfI3UaslV",
+            "name": "Shoot My Shot"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4Yse0HdHHnjKMcHYrAG17v",
+            "name": "Dog Food (feat. Denzel Curry)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0ysFSCBz627eMd7OM5om65",
+            "name": "24"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2BPY3Fb18VdEkmu9RdnuaF",
+            "name": "Pinot Noir"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5DYCjR2JgQFUx9dfGmmIJm",
+            "name": "Bah ouais"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3BZQMl30vKJmPvUwEq5i5E",
+            "name": "Top 10 Punjabi Beats - Mashup"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3v0aKg19BZA9qUu1pWjNZr",
+            "name": "CMBB (C'est Marseille B\u00e9b\u00e9) (feat. Kofs)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3FFRWVhomCSlhoV445hGua",
+            "name": "Elmina - A COLORS SHOW"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "2hZERrEIiIZPyYFUwAcIPG",
+            "name": "Naam Guru Ravidass Ji Da"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "205HNJ73cgpC0LAOnuQiWT",
+            "name": "Bande organis\u00e9e"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4X4EtnTuuVY0QMZroFVwHY",
+            "name": "Win"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5xx3UTSo9aevmdGI8O03gn",
+            "name": "Embourgeois\u00e9"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "7saDIKQzJjMf0X1nwDPCwz",
+            "name": "Rug Amber Da (From \"Teeja Punjab\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5peWz8V2E6BIxpIx0P7GHt",
+            "name": "Up The Score (feat. Benny The Butcher)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "1qmQtjLHkjwrRzuFmP9smG",
+            "name": "La rwina"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "5LyViLHbmjbJgQwwNgKEEH",
+            "name": "Safe safe"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "3fl12SlkOX4m29KzCu6RVx",
+            "name": "Vamos"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "74pqrChQfI9uj9o2qVDSFE",
+            "name": "Massari"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "7H2I3PfxXWTLNxtfTfHAgr",
+            "name": "Sac a dos"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "49qSU1iGP27YtJGCVucqpV",
+            "name": "Sac a dos"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "262hXYR3afKXtZKGrNUxzK",
+            "name": "Sant\u00e9 & Bonheur"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "5Ipmc7KmoVfzGzUo67qWyq",
+            "name": "Gallan Chaandi Diyan (From \"Teeja Punjab\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1WeBJyb6DZ2Q03iPxxE7r5",
+            "name": "Thug Tear"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4KWi2YI6xKhkUS6Q9BVXuv",
+            "name": "Superwoman"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6v3mnbymAxl1XFGuzwwpPP",
+            "name": "Booska Sant\u00e9 & Bonheur"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "5Otc8XvCzXofFGIAV63Pfl",
+            "name": "Mool Mantar"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "0F7dIHqrwfdmeLjwrIar5y",
+            "name": "Casablanca"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6ucbNEylGEtfZPOJwHstrk",
+            "name": "Pinot Noir"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "4URmShJyD687dAu7VujnsQ",
+            "name": "Skati"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3WYzyafR47qwO5w2UtzFv9",
+            "name": "Jaan"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6s1E7QPVZOz7yciIzW4Rey",
+            "name": "Tout s'ach\u00e8te"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4dAUpdGjqRpOqf1wigeeKp",
+            "name": "Kinna Mardi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5oeerwshXE6yeT6ZbLR8EW",
+            "name": "Elmina"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "7La0njAnt5lEZGMXSfnGSq",
+            "name": "Je saigne"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "4KoiLBOLPnSERA0apY9y1I",
+            "name": "Panamera"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "31RGhwIcmQg109TxWiHteQ",
+            "name": "Sira E Hou"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "5H1HZedeDHC5ahCgoimGFM",
+            "name": "Numero uno"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "31KvrVQ0pwEhlksDrqFUXH",
+            "name": "Salty (feat. NLE Choppa)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5voCBIlnnSajZycpf10pNI",
+            "name": "Violence"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0Ec9i1smvuBQZdJ7EXtXNn",
+            "name": "Gulabi Rang"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "7JqIhLtctfc6U96aovx1UX",
+            "name": "Time Chakda"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "59ROuQtPkr0UVO2nAEpHa8",
+            "name": "Busy Busy"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6VTLYUFu6kSNwgLWLT0uFY",
+            "name": "Lemme Check!"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "1IMl7BiqYc0J0mHVfLriwZ",
+            "name": "Sohne Sohne Suit"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6ioZ7e1OSQ92pMjJBs7Khg",
+            "name": "Ajj Kal Ajj Kal"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "0vyV3joyy1lWJoZ7QWJVew",
+            "name": "Ana W Rassi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "61LOPrbWz3Ymh6bNdCsJAz",
+            "name": "Mr. Police"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "6jibpyPhH0IkgjKLfhl8jM",
+            "name": "A qui profite le crime"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "2ryH4X0UZB7qgeGGMUhqTg",
+            "name": "Cette ann\u00e9e-l\u00e0"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3xVLzFG5fqap9mw2r7mN6W",
+            "name": "Suit"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "75mPObh81zu09GdVOfRG6l",
+            "name": "850 (We On Top) [feat. Rich The Kid]"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "39jtccUn5BcqpMbjzqFRlj",
+            "name": "J'en ai marre !"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "5azVGaJAfIFVsE5W3TF8eF",
+            "name": "Ma\u00eetre Cohen"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "1XqfnUGwTd1wHwDk4FgPvw",
+            "name": "Majhe Wal Da (From \"Chal Mera Putt 2\" Soundtrack)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "1UCuu9ouBrppesU3JXe8b9",
+            "name": "Trap Roumi V2"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "79vX1IZRXami6H0rIkED9T",
+            "name": "Radioactive"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "3JSPbdfB3wThuWdTnTDKvY",
+            "name": "Gen\u00e8se"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3jrhKutm1OYeanwAGOMkSe",
+            "name": "Lehnga"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "5FRBGBRj7uF3YkkTPZr6iP",
+            "name": "Kfaya"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6C8QkuZhwVknE18TvGD0iR",
+            "name": "Coal"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "2ET8K5jJLaCCRn7M6u2ExO",
+            "name": "TKT"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "5RaQ9nmVGoTye2SI76x3yw",
+            "id": "1g96ZS55ZW7T5mAJJCUFVm",
+            "name": "Paradis"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "47993TulzIDIq2Bgs5JqOz",
+            "name": "Monsieur Dior"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3tXRp4vdz8lFQNI3r2RAFM",
+            "name": "Supna Laavan Da"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "2ADT5gRmnP8BNmKAGtEdcV",
+            "name": "Take Me to the Moon"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0O4wHincVaptKiV2Rv7LhC",
+            "name": "Sailor On The Moon (feat. IDK & KayCyy)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4zxFqGMNVDcU6wGSVnveDy",
+            "name": "Baddlan De Kaalje (From \"Chal Mera Putt\" Soundtrack)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6dqytZDFl4cljWSIcHWYMb",
+            "name": "Channan - From \"Rabb Da Radio 2\""
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "20ckFsrm0Fw9QUPLz4kSV3",
+            "name": "Drive"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4Wgu0FPMdz24m4TBc7kyk2",
+            "name": "Free Slime"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5J3FgODJbjMeFskWcY0RjF",
+            "name": "Trials"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2dHIDFaA25IvuxABhrhlsu",
+            "name": "The One"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4iLLUYbws7n1Dj53UVGeKW",
+            "name": "Fall Into Me"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4CEDyj5PTNmzvicViioZ5W",
+            "name": "Jattan De Munde - From \"Rabb da Radio 2\""
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "5B56X3M7FVBr1cnQFNvLEZ",
+            "name": "Tohar"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "478bNaXnrz0uF2AwVl4gyT",
+            "name": "Dog Food (feat. Denzel Curry)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4UVNyFBzq9kcltyllPfO34",
+            "name": "Taco"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1wg19chzByanxCC8mKc8SI",
+            "name": "Taco"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "5ojFqQR8wcsNhywW6oDDzj",
+            "name": "Sacha Jhootha"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "1YaVQhIAeIDodguKcNCUOW",
+            "name": "Ravaya Na Kar - From \"Afsar\""
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "1rOalFQe0DO01zE1JJpxTa",
+            "name": "Story Insta"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "528i4G2yPIJDetyAsndzFw",
+            "name": "Psychedelic Views (feat. IDK)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "6dYyaD5I23rlFsQTol3Vji",
+            "name": "Khat - From \"Afsar\""
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7zg97q1UQyQgIhhrAEke45",
+            "name": "PradadaBang"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0Kwu1RPioDn7iqqXQXzaCf",
+            "name": "Udhaar Chalda - From \"Afsar\""
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0XRJCK2hggV2k3YVMzZDei",
+            "name": "Peloton"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "4DvqktE53W21fqqWzRlsIA",
+            "name": "8PM"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "6ChhE0nj3IsRi5yFJ0sWTx",
+            "name": "Il Est La"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "3siTsIx6IEreSUva7pVnZ8",
+            "id": "1V65sv8vad1ELtfYfIIaRC",
+            "name": "Trap Roumi"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2CQ1EzKRWUY3EkVx97jDh5",
+            "name": "Shoot My Shot - New Impressionz Go-Go Edit"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5cpYspcTAQ8E4X70AqZOL9",
+            "name": "Shoot My Shot - Instrumental"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5eRulz8G9wxq74BQtQYKNj",
+            "name": "Shoot My Shot"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0Sf6tCf1PpIXrG5htibftj",
+            "name": "Sun Sohniye - From \"Afsar\""
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5q9Et9kJTWvRg80uQLBW4s",
+            "name": "Shoot My Shot"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "09iFZMBjCCZvSJLaQV0cUm",
+            "name": "Ranihaar"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0946VVOuYpcWD04kxXHZzP",
+            "name": "Just Like Martin"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "2EJSjOZvFbk8PInbTXSSYZ",
+            "name": "Brobar Boli"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "444UIyq10heFY8SPc3CCD9",
+            "name": "2 Cents"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "4JUoXJhoorMpDxkgoEhkaF",
+            "name": "Designer"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6Z2nShoaJ0STISrBehiDDR",
+            "name": "King Alfred"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "282TQN2qgRYA3hbb5eNV0U",
+            "name": "Bhangra Gidha"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5aeaaeKp8fY60CVHAzNbwL",
+            "name": "Cereal (feat. Kenny Mason)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2q0nvnoM52HGglPqzRxD5P",
+            "name": "MAZEL TOV"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1uO3uDcnAFjz4ZaQjBlM6a",
+            "name": "495 (feat. Rico Nasty, YungManny, Big Flock, Big JAM & Weensey)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2c5NNtO4efNdwaAE8r41bu",
+            "name": "In My White Tee"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3sufgB1pM6cLtCtFWgqQAH",
+            "name": "24"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "0KaIMTsMalO8B19bjfE91K",
+            "name": "Akhar - Female Version (From \"Lahoriye\" Soundtrack)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4hjvUQo7a2Y5uCTR0Wtkkc",
+            "name": "Digital"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "0ea0y5ZxnN5TbEDzNtx5Fk",
+            "id": "3gMXScNEyM0aLJig5cWCKW",
+            "name": "DJ Waaleya (From \"Arjan\")"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1vND7jVyATMuR3WL3UGjf3",
+            "name": "Trigger Happy"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6GxUQmVVCY7ZEUN1fJkoYW",
+            "name": "Trigger Happy (Instrumental)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "10lH0XzazuF6FUnofOwN9a",
+            "name": "ONCE UPON A TIME (FREESTYLE)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4mFpq2tEmxVHFdCpT81mAW",
+            "name": "Moral (feat. Maxo Kream)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5Z0EdvvmVD4XTAQeJ6Nleb",
+            "name": "Please Forgive (feat. Denzel Curry, IDK, Zombie Juice & ZillaKami)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "7A3Aro6dr0yOBAtZIyBXUI",
+            "name": "Electric (feat. Q Da Fool)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6R5lpoa6w7dfyhPLHrnu5C",
+            "name": "Why? - Remix"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6zmmfG42ohVDRbP4HFgSHM",
+            "name": "Trippie Redd's Freestyle"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0WU2XfrTJZ3Sdrw2sJt7nF",
+            "name": "No Time"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "23P32uFdoMIV3FMf9fH5qP",
+            "name": "Star"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6LwVuIfC5vp4waJTZBVph1",
+            "name": "Lil Arrogant (feat. Joey Bada$$ & Russ)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5l9dIvzjTUelyDLsiuB2Ls",
+            "name": "Uh Huh"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2vHh7UD0pQUJuGMvh2r2AU",
+            "name": "No Wave (feat. Denzel Curry)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2Sb8lBCv6aQxloaMzuBCGp",
+            "name": "Pizza Shop (with Yung Gleesh)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6L5B4ZO7ThZ5Zhad6jPqI6",
+            "name": "Windows Up"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "11uHj6EZ3eLcdNlszmNw60",
+            "name": "Dog Love Kitty (with Mother Marygold)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3TnRBA1u49iwHAhMDXahRa",
+            "name": "Birds & The Bees"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6b0ol9qkbtETCzuK94goOJ",
+            "name": "Pizza Shop Extended (with Yung Gleesh, DOOM & Del The Funky Homosapien)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "537T0UT1c8RHB1w8CMOua5",
+            "name": "Mrs. Lynch, Your Son Is The Devil"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "6DVXAOgKkglHGEr2rxh2ks",
+            "name": "Maryland Ass Nigga (with Swizz Beatz)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0W9UyigK3QMqM1O1323FuR",
+            "name": "OMW"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "0v4yQTNMOmDCoQbmZViF5L",
+            "name": "Blame My Friends (The Gang)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5ZWhLPKnqrK3VvXuTUuly4",
+            "name": "Blame My Friends (The Gang) (Clean)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "010ZLdOk7Q5QEkJ7inRFsh",
+            "name": "I Picture"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3JUxb9oyA2mmW15mrvHcaz",
+            "name": "God Said Trap (King Trappy III) [Instrumental]"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1rq8i2FDVeBfFisOoyGVaI",
+            "name": "MENTALITY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5l4ptek0qQoJnKNOtQcTCP",
+            "name": "SOMEBODY"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "5O3RxKsVfK5E0ItlezuVwo",
+            "name": "Trust Nobody (Lurkin) [feat. Deniro Farrar]"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "2gua13smWgIGU5C7tV2DRr",
+            "name": "Cookie Addiction (feat. BJ The Chicago Kid)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "4PJXnTbQIYzmRSs80giDLw",
+            "name": "Cookie Addiction (feat. BJ The Chicago Kid)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "38rLN2uNTY60ZgtOb39DlO",
+            "name": "The Plug"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "1SHSyRj4Aj4o3aZC7ZMU2y",
+            "name": "The Plug (Clean)"
+        }
+    },
+    {
+        "model": "playlist.track",
+        "fields": {
+            "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+            "id": "3WZoL02vmHRvV7tcKTYOa6",
+            "name": "Two Hoes (Remastered) [feat. Eddie Vanz]"
+        }
+    }
+]
