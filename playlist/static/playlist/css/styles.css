@@ -1,0 +1,46 @@
+/* static/css/styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@400;700&display=swap');
+
+@keyframes rainbow {
+    0% { color: #ff0000; }
+    14% { color: #ff9900; }
+    28% { color: #ffff00; }
+    42% { color: #33cc33; }
+    57% { color: #00ffff; }
+    71% { color: #3333ff; }
+    85% { color: #cc33ff; }
+    100% { color: #ff0000; }
+}
+
+.rainbow-text {
+    display: inline-block;
+    animation: rainbow 5s infinite;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #ffcc33, #ff6699);
+    color: #333;
+    margin: 0;
+    overflow: hidden;
+}
+
+h1, h2, h3, .logo {
+    font-family: 'Pacifico', cursive;
+}
+
+.content {
+    z-index: 1;
+    position: relative;
+    text-align: center;
+    padding: 20px;
+}
+
+#particles-js {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}

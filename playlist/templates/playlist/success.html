@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Playlist Created Successfully</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 90%;
+            max-width: 600px;
+        }
+        .link {
+            display: block;
+            margin: 20px 0;
+            font-size: 18px;
+            color: #1db954;
+            text-decoration: none;
+        }
+        .button {
+            display: inline-block;
+            margin: 20px 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #1db954;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        .button:hover {
+            background-color: #14833b;
+        }
+        .logout-button {
+            background-color: #e74c3c;
+        }
+        .logout-button:hover {
+            background-color: #c0392b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Playlist Created Successfully!</h1>
+        <a href="{{ playlist_url }}" class="link">View Your Playlist</a>
+        <a href="{% url 'generate_response' %}" class="button">Generate New Playlist</a>
+        <a href="{% url 'logout' %}" class="button logout-button">Logout</a>
+    </div>
+</body>
+</html>
